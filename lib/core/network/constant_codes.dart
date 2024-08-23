@@ -1,0 +1,11 @@
+const int successCode = 200;
+const int noDataCode = 204;
+const int errorServerCode = 500;
+const int errorBadRequest = 400;
+const int errorNotFound = 404;
+const int unAuthorizedRequestCode = 401;
+const int forbiddenRequestCode = 403;
+const int errorExceptionCode = -1;
+const int errorTimeOutCode = -3;
+const int errorAccountNotConfirmed = 1;
+const int cancelExceptionCode = 999;
